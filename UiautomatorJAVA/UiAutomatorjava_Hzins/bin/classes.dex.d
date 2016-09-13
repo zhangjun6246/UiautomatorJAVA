@@ -1,0 +1,21 @@
+E:\TestWorkspase\Hzins_Ad\bin\classes.dex : \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\base\BasicTestCase.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\base\PageManner.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\base\UiObjectHelper.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\insure\PageAnInsurance.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\insure\PageFillInformation.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\insure\PageHomePage.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\insure\PageLogin.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\insure\PageNavigation$1.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\insure\PageNavigation.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\insure\PagePay.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\insure\PageSelectionMold.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\insure\PageSelectionProducts.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\insure\UiAutomatorHelper.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\test\Testcase\CtsHelper.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\test\Testcase\main.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\test\Testcase\TestHomeProducts.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\test\Testcase\TestInsure.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\test\Testcase\TestLogin.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\test\Testcase\TestProduct.class \
+E:\TestWorkspase\Hzins_Ad\bin\classes\com\test\Testcase\TestRun.class \
