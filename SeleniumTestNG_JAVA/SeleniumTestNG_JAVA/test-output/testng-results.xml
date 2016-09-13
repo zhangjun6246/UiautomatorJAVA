@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26820" started-at="2016-08-30T14:11:07Z" finished-at="2016-08-30T14:11:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26820" started-at="2016-08-30T14:11:07Z" finished-at="2016-08-30T14:11:34Z">
+      <class name="com.test.Setting">
+        <test-method status="PASS" signature="StartDriver()[pri:0, instance:com.test.Setting@144ffa4]" name="StartDriver" is-config="true" duration-ms="16547" started-at="2016-08-30T22:11:07Z" finished-at="2016-08-30T22:11:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method status="PASS" signature="TestSeeting(java.lang.String, java.lang.String)[pri:0, instance:com.test.Setting@144ffa4]" name="TestSeeting" duration-ms="10260" started-at="2016-08-30T22:11:24Z" finished-at="2016-08-30T22:11:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xiaozhang]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xiaozhang]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSeeting -->
+      </class> <!-- com.test.Setting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

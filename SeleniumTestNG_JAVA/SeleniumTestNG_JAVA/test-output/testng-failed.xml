@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <parameter name="logname" value="xiaozhang"/>
+  <parameter name="password" value="xiaozhang"/>
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.test.Setting">
+        <methods>
+          <include name="TestSeeting" invocation-numbers="0"/>
+          <include name="StartDriver"/>
+        </methods>
+      </class> <!-- com.test.Setting -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
